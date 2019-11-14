@@ -1,0 +1,54 @@
+.CadreProfil
+{
+	color:black;
+	background-color: lightblue;
+    width: 40%;
+	margin: 50px auto 20px ;
+    padding: 5px;
+	border: 1px solid black;
+  }
+
+  .Image img
+{
+	border-radius:120px; 
+	width:150px;
+	height:150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: 50px;
+}
+
+.Prenom
+{
+	padding-left: 50px;
+	display: inline;
+	
+}
+
+.Nom
+{
+	padding-left: 210px;
+	display: inline;
+}
+
+.Date_de_naissance
+{
+	padding-left: 50px;
+	padding-top: 30px;
+}
+
+.CSButton
+{
+	padding-left: 450px;
+	padding-bottom: auto;
+	padding-top: 30px;
+}
+
+.content{
+	display: inline;
+	float: left;
+	margin-top: 10px;
+	background-color: burlywood;
+}
